@@ -1,0 +1,7 @@
+venv
+.env
+test.py
+high_comments_and_ratings.txt
+low_comments_and_ratings.txt
+medium_comments_and_ratings.txt
+data.csv
